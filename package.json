@@ -1,0 +1,52 @@
+{
+  "name": "marketly",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "native-base": "^2.3.2",
+    "performance-now": "^2.1.0",
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.46",
+    "react-native-credit-card-input": "^0.3.3",
+    "react-native-datepicker": "^1.6.0",
+    "react-native-elements": "^0.16.0",
+    "react-native-google-signin": "~0.10.0",
+    "react-native-image-crop-picker": "^0.16.0",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-instagram-login": "~1.0.2",
+    "react-native-linear-gradient": "^2.3.0",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-material-kit": "^0.4.1",
+    "react-native-md-textinput": "^2.0.4",
+    "react-native-navigation": "^1.1.212",
+    "react-native-restart": "^0.0.3",
+    "react-native-scrollable-tab-view": "^0.6.7",
+    "react-native-star-rating": "^1.0.8",
+    "react-native-twitter-signin": "^1.0.2",
+    "react-native-vector-icons": "^4.3.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0"
+  },
+  "devDependencies": {
+    "babel-jest": "21.0.0",
+    "babel-preset-react-native": "3.0.2",
+    "jest": "21.0.1",
+    "react-test-renderer": "16.0.0-alpha.12",
+    "redux-immutable-state-invariant": "^2.0.0",
+    "redux-logger": "^3.0.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./fonts"
+    ]
+  }
+}

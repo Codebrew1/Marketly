@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "602839193778",
+    "firebase_url": "https://marketly-dev.firebaseio.com",
+    "project_id": "marketly-dev",
+    "storage_bucket": "marketly-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602839193778:android:c78646b237da21d3",
+        "android_client_info": {
+          "package_name": "com.marketly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602839193778-ratj4q56ffgbbdg9a9n2bt3v17s4eds1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeFGitKGraDYxSWD2j74g-0ehgoDPgQIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
